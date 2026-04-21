@@ -1,4 +1,10 @@
-# Analise-Logistica-E-commerce-Olist
+## 📌 Resumo Executivo
+
+Esta análise investigou o impacto do prazo de entrega na experiência do cliente em um e-commerce brasileiro.
+
+Os resultados mostram que atrasos impactam significativamente a satisfação, com quedas acentuadas na avaliação em casos de atraso elevado, enquanto a maioria das entregas ocorre de forma antecipada.
+
+Isso indica uma operação logística pouco precisa, com oportunidades claras de otimização.
 
 # 📊 Análise de Dados - E-commerce (Olist)
 
