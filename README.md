@@ -40,7 +40,9 @@ Analisar a relação entre:
 - Crescimento consistente ao longo do tempo
 
 ---
+## ❓ Pergunta de Negócio
 
+Como o prazo de entrega impacta a satisfação do cliente e quais oportunidades existem para melhorar a operação logística?
 ### 🚚 Logística e Experiência do Cliente
 
 ![Logística](images/logistica.png)
@@ -51,13 +53,19 @@ Analisar a relação entre:
 
 ---
 
-## 💡 Insights
+## 💡 Principais Insights
 
-- Existe uma relação clara entre atraso e queda na avaliação do cliente
-- A operação logística tende a antecipar entregas, indicando possível margem de otimização
-- A satisfação do cliente é sensível a desvios no prazo de entrega
+- Pedidos com atraso alto apresentam queda significativa na avaliação média (≈ 2,1 vs 4,3 em entregas antecipadas)
+- A maioria dos pedidos é entregue antecipadamente
+- Baixa taxa de entregas no prazo indica falta de precisão logística
 
 ---
+
+## 🚀 Recomendações
+
+- Ajustar estimativas de entrega para maior precisão
+- Reduzir extremos (muito antecipado vs muito atrasado)
+- Monitorar impacto do atraso na retenção de clientes
 
 ## 📁 Arquivos
 
@@ -77,4 +85,4 @@ Analisar a relação entre:
 
 ## 📬 Contato
 
-[LinkedIn](seu_link_aqui)
+[LinkedIn](https://www.linkedin.com/in/guilherme-inocente-50690714b/)
